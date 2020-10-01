@@ -1,1 +1,1 @@
-Next.js - Static Sites Generate
+# mNext.js - Static Sites Generate
